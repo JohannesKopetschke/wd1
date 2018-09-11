@@ -1,0 +1,14 @@
+cd Ordner
+cd Desktop/Smartninja/wd1/
+
+Temrinal Befehle Übersicht:
+
+git status
+add git
+git diff   sss>>>
+
+git commit -m
+git status
+git log
+
+q = Quit
