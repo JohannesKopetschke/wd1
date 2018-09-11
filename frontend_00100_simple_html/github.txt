@@ -1,0 +1,5 @@
+Temrinal Befehle Übersicht:
+
+git status
+add git
+git diff
